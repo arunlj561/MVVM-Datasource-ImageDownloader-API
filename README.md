@@ -11,6 +11,8 @@ In App delegate you can try any of it TableViewController or ViewController by c
 
 * Model houses the logic for the program, which is retrieved by the ViewModel upon its own receipt of input from the user through View.
 
+With help from Ray wenderlich MVVM tutorial - https://www.youtube.com/watch?v=sWx8TtRBOfk
+
 # Datasource
 Writing a separate datasource class makes the ViewController/TableViewcontroller class Thin.
 Follow this - https://www.hackingwithswift.com/articles/159/how-to-refactor-massive-view-controllers
