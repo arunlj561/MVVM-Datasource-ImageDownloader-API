@@ -24,5 +24,6 @@ Fetching Photos from http://jsonplaceholder.typicode.com/photos using URLSession
 # ImageDownloader
 It is an Operation class, which perform single operation currently fetching image from ImageUrl in background so there is no effect on Main thread and UI does not hangs. In case you want to add extra operations you can add them too, like gray-out image or rounded-image, you can add operation depending on each other too. In View controller, in viewWillDisplaycell fetching images which or not fetched else show from cached
 
+All improvements and suggestions are welcomed.
 
   
